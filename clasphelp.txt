@@ -1,0 +1,29 @@
+# CLASP (Command Line Apps Script Projects)
+
+## What is it?
+- A command-line tool for managing Google Apps Script projects
+- Allows local development of Apps Script projects
+- Syncs local files with Google's servers
+
+## Key Features
+- Create new Apps Script projects
+- Clone existing projects
+- Push/pull changes between local machine and Google's servers
+- Manage versions and deployments
+
+## How it works
+1. Authenticates with Google's APIs
+2. Translates command-line instructions into API calls
+3. Manages local project files and syncs them with Google's servers
+
+## Benefits
+- Use any text editor or IDE for development
+- Integrate with version control systems (like Git)
+- Automate Apps Script tasks and integrate with other development tools
+
+## Similar Tools
+- `gcloud` for Google Cloud Platform
+- `aws-cli` for Amazon Web Services
+- `azure-cli` for Microsoft Azure
+
+These tools all serve similar purposes: allowing developers to interact with cloud platforms via the command line, enabling more flexible and powerful development workflows.
